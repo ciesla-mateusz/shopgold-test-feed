@@ -1,39 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <produkty>
   <produkt>
-    <kod>TEST-001</kod>
+    <nr_katalogowy>TEST-001</nr_katalogowy>
     <nazwa>Ekologiczny Szampon 250ml</nazwa>
-    <ean>5901234567890</ean>
-    <kategoria>kosmetyki</kategoria>
-    <producent>NaturaLab</producent>
-    <ilosc>15</ilosc>
+    <stan>15</stan>
     <cena_brutto>19.99</cena_brutto>
+    <opis>Ekologiczny szampon bez parabenów i SLS.</opis>
+    <jm>szt.</jm>
+    <producent>NaturaLab</producent>
+    <zdjecie>https://twojadomena.pl/zdjecia/test-001.jpg</zdjecie>
   </produkt>
   <produkt>
-    <kod>TEST-002</kod>
+    <nr_katalogowy>TEST-002</nr_katalogowy>
     <nazwa>Krem do Rąk Ziołowy 100ml</nazwa>
-    <ean>5909876543210</ean>
-    <kategoria>kosmetyki</kategoria>
-    <producent>Zielona Moc</producent>
-    <ilosc>0</ilosc>
+    <stan>0</stan>
     <cena_brutto>11.50</cena_brutto>
-  </produkt>
-  <produkt>
-    <kod>TEST-003</kod>
-    <nazwa>Olej Kokosowy Bio 500ml</nazwa>
-    <ean>5901122334455</ean>
-    <kategoria>zdrowa żywność</kategoria>
-    <producent>BioFood</producent>
-    <ilosc>27</ilosc>
-    <cena_brutto>24.99</cena_brutto>
-  </produkt>
-  <produkt>
-    <kod>TEST-004</kod>
-    <nazwa>Mydło Naturalne z Węglem 100g</nazwa>
-    <ean>5909988776655</ean>
-    <kategoria>kosmetyki</kategoria>
-    <producent>BlackSoap</producent>
-    <ilosc>42</ilosc>
-    <cena_brutto>9.90</cena_brutto>
+    <opis>Ziołowy krem do rąk z witaminą E.</opis>
+    <jm>szt.</jm>
+    <producent>Zielona Moc</producent>
+    <zdjecie>https://twojadomena.pl/zdjecia/test-002.jpg</zdjecie>
   </produkt>
 </produkty>
